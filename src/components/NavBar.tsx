@@ -47,7 +47,7 @@ export function NavBar({
                                     className="text-muted-foreground hover:text-primary hover:bg-primary/5 transition-colors"
                                     asChild
                                 >
-                                    <a href="https://github.com/netglade/mcp-chat" target="_blank" rel="noopener noreferrer">
+                                    <a href="https://github.com/yute0x/mcp-chat-altiora" target="_blank" rel="noopener noreferrer">
                                         <Github className="h-5 w-5" />
                                     </a>
                                 </Button>
